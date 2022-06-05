@@ -1,2 +1,0 @@
-# INKABUSINESS-APP
-Demo de la página de INKABUSINESS
