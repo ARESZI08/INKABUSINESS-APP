@@ -1,0 +1,27 @@
+form{
+    width: 10px;
+    margin: 0 37%;
+    background-color: #fff;
+}
+
+input{
+    padding: 8px;
+    width: 350px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.reclamo{
+    height: 150px;
+    width: 350px;
+    font-size: 15px;
+    border-radius: 5px;
+}
+
+.submit{
+    margin: 0 125px;
+    height: 35px;
+    width: 100px;
+    cursor: pointer;
+    border-radius: 5px;
+}
